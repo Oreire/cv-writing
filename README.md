@@ -136,4 +136,14 @@ I am excited to apply for the DevOps Engineer role, bringing a unique blend of t
 ---
 
 If you’d like, I can now generate a complete cover letter with this fully embedded—or design a standalone bio for LinkedIn, portfolios, or applications. Let’s get you noticed. 🔧💬📣
+skills for freelance
+
+Technical Skills: Cloud computing (AWS, Azure), cybersecurity fundamentals (IAM, compliance), DevOps tooling (CI/CD, observability), SRE practices, programming (Python, Java, JavaScript), Agile methodologies, business analysis, process modelling.
+
+Educational Expertise: Curriculum design, differentiated instruction, assessment strategies, inclusive teaching, digital literacy promotion, content writing, LMS familiarity.
+
+Consultancy & Research: Stakeholder engagement, trend analysis, educational strategy, professional development planning, technical writing, systems mapping.
+
+Professional Attributes: Clear communication, adaptability, mentoring, time management, ethical practice, coaching, collaboration.
+
 
